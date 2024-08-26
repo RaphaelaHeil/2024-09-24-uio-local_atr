@@ -1,0 +1,12 @@
+title: "Ditching Transkribus: Local Automatic Text Recognition with Loghi"
+email: ""
+description: >- # this means to ignore newlines until "baseurl:"
+  Workshop page for "Ditching Transkribus: Local Automatic Text Recognition with Loghi" 
+baseurl: "/2024-06-11_uio_local-atr" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  RaphaelaHeil
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
