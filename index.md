@@ -32,24 +32,24 @@ _Please note that the lesson plan may still undergo changes until 1-2 weeks befo
 After the installation, Docker Desktop may prompt you to login/create a user account. This is **not** required in order to use Docker and you can therefore skip this step! 
 
 
-### Mac
+## Mac
 https://docs.docker.com/desktop/install/mac-install/ 
 
 **Note that the installation varies slightly, depending on whether your Mac is using and Intel or Apple Silicon chip!**
 
 
-### Linux
+## Linux
 
 On Linux, you can either install the command-line based Docker Engine by itself: https://docs.docker.com/engine/install/, or integrated within the graphical user interface Docker Desktop https://docs.docker.com/desktop/install/linux-install/ 
 
 Both versions will work fine for this workshop! 
 
 
-### Windows
+## Windows
 
 Before you can install Docker Desktop, a number of prerequisites have to be fulfilled. Note that the images below were taken on Windows 10 and may look slightly different if you are working with Windows 11. The respective options should be the same, however! 
 
-#### Install the Windows Subsystem for Linux (WSL)
+### Install the Windows Subsystem for Linux (WSL)
 1. Open the PowerShell in **administrator** mode, by searching for the programm in the `Windows Start Menu` (start typing PowerShell to see search results). Right-click on the menu entry and choose "Run as administrator". 
 
 _if PowerShell is not available, look for "Command Prompt" instead and follow the same steps_
@@ -66,14 +66,14 @@ _if PowerShell is not available, look for "Command Prompt" instead and follow th
 3. Once the installation is complete, restart your computer.
 
 
-#### Enable the WSL Windows Feature
+### Enable the WSL Windows Feature
 1. In the `Windows Start Menu`, search for: "Turn Windows Features on or off" by starting to type the name. 
 2. In the new window, scroll all the way to the bottom and ensure that the box for "Windows Subsystem for Linux" is **ticked**
 
 !["Windows Feature" window with the "Windows Subsystem for Linux" entry highlighted and its checkbox ticked](img/wsl_feature_annotated.png)
 
 
-#### Ensure that Virtualization is Enabled
+### Ensure that Virtualization is Enabled
 1. Open the Task Manager, e.g. by searching for it in the `Windows Start Menu` or right-clicking the task bar and selecting Task Manager in the menu
 2. At the top, navigate to the Performance tab
 3. Check that Virtualization is set to Enabled
@@ -86,7 +86,7 @@ _if PowerShell is not available, look for "Command Prompt" instead and follow th
 While you are looking at the Task Manager, you can also check whether your machine has a Graphics Processing Unit (GPU), in the list on the left. This information will be relevant during the workshop. 
 
 
-#### Continue with the Docker Desktop Installation
+### Continue with the Docker Desktop Installation
 
 1. Go to: https://docs.docker.com/desktop/install/windows-install/ 
 2. Download the "Docker Desktop for Windows - x86_64" installer by clicking on the button. Take note of where you have saved the file!
