@@ -13,7 +13,7 @@ The workshop will briefly introduce ATR and its capabilities and limitations. Af
 
 2024-09-24, 9:00 - 11:30 at DSC-Oasen, Georg Sverdrups hus, University of Oslo Library
 
-**Registration and more info at: https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2024-09-24_ws_loghi.html**
+**Registration and more info at: [https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2024-09-24_ws_loghi.html](https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2024-09-24_ws_loghi.html)**
 
 ## Preliminary Lesson Plan
 _Please note that the lesson plan may still undergo changes until 1-2 weeks before the workshop._
@@ -33,14 +33,14 @@ After the installation, Docker Desktop may prompt you to login/create a user acc
 
 
 ## Mac
-https://docs.docker.com/desktop/install/mac-install/ 
+Follow the instructions at: [https://docs.docker.com/desktop/install/mac-install/ ](https://docs.docker.com/desktop/install/mac-install/)
 
 **Note that the installation varies slightly, depending on whether your Mac is using and Intel or Apple Silicon chip!**
 
 
 ## Linux
 
-On Linux, you can either install the command-line based Docker Engine by itself: https://docs.docker.com/engine/install/, or integrated within the graphical user interface Docker Desktop https://docs.docker.com/desktop/install/linux-install/ 
+On Linux, you can either install the command-line based Docker Engine by itself: [https://docs.docker.com/engine/install/](https://docs.docker.com/engine/install/), or integrated within the graphical user interface Docker Desktop [https://docs.docker.com/desktop/install/linux-install/](https://docs.docker.com/desktop/install/linux-install/)
 
 Both versions will work fine for this workshop! 
 
@@ -78,7 +78,7 @@ _if PowerShell is not available, look for "Command Prompt" instead and follow th
 2. At the top, navigate to the Performance tab
 3. Check that Virtualization is set to Enabled
 
-**If Virtualization is Disabled, talk to your administrator (if any) or follow these instructions: https://support.microsoft.com/en-gb/windows/enable-virtualization-on-windows-c5578302-6e43-4b4b-a449-8ced115f58e1**
+**If Virtualization is Disabled, talk to your administrator (if any) or follow these instructions: [https://support.microsoft.com/en-gb/windows/enable-virtualization-on-windows-c5578302-6e43-4b4b-a449-8ced115f58e1](https://support.microsoft.com/en-gb/windows/enable-virtualization-on-windows-c5578302-6e43-4b4b-a449-8ced115f58e1)**
 
 !["Task Manager" window with the entries for the virtualization (right column, near the bottom) and GPU (left column, last row) highlighted](img/task_manager_annotated.png)
 
@@ -88,9 +88,9 @@ While you are looking at the Task Manager, you can also check whether your machi
 
 ### Continue with the Docker Desktop Installation
 
-1. Go to: https://docs.docker.com/desktop/install/windows-install/ 
+1. Go to: [https://docs.docker.com/desktop/install/windows-install/](https://docs.docker.com/desktop/install/windows-install/)
 2. Download the "Docker Desktop for Windows - x86_64" installer by clicking on the button. Take note of where you have saved the file!
-3. Follow the instructions in the section "Install Interactively": https://docs.docker.com/desktop/install/windows-install/#install-interactively 
+3. Follow the instructions in the section "Install Interactively": [https://docs.docker.com/desktop/install/windows-install/#install-interactively](https://docs.docker.com/desktop/install/windows-install/#install-interactively) 
 	- if prompted, select the WSL 2 backend 
 
 **Note: if you encounter any issues during the installation, restart your machine and start the Docker installer again** 
