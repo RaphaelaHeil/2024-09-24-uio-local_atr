@@ -23,7 +23,7 @@ _Please note that the lesson plan may still undergo changes until 1-2 weeks befo
 2. Setting up _Loghi_ with Docker
 3. Using a pre-trained model to recognise text
 5. Creating training data from existing annotations
-6. Training and using a small custom model
+6. Fine-Tuning and using a small custom model
 7. Final questions and wrapping up
 
 
