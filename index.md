@@ -16,14 +16,14 @@ The workshop will briefly introduce ATR and its capabilities and limitations. Af
 **Registration and more info at: [https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2024-09-24_ws_loghi.html](https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2024-09-24_ws_loghi.html)**
 
 ## Preliminary Lesson Plan
-_Please note that the lesson plan may still undergo changes until 1-2 weeks before the workshop._
+_Please note that the slides may still undergo small changes until a few days before the workshop._
 
 0. Welcome and introductions
-1. Introduction to Automatic Text Recognition (ATR)
-2. Setting up _Loghi_ with Docker
-3. Using a pre-trained model to recognise text
-5. Creating training data from existing annotations
-6. Fine-Tuning and using a small custom model
+1. Introduction to Automatic Text Recognition (ATR) - [Slides](https://raphaelaheil.github.io/2024-09-24-uio-local_atr/slides/01.pdf)
+2. Setting up _Loghi_ with Docker - [Slides](https://raphaelaheil.github.io/2024-09-24-uio-local_atr/slides/02.pdf)
+3. Using a pre-trained model to recognise text - [Slides](https://raphaelaheil.github.io/2024-09-24-uio-local_atr/slides/03.pdf)
+5. Creating training data from existing annotations - [Slides](https://raphaelaheil.github.io/2024-09-24-uio-local_atr/slides/04.pdf)
+6. Fine-Tuning and using a small custom model - [Slides](https://raphaelaheil.github.io/2024-09-24-uio-local_atr/slides/05.pdf)
 7. Final questions and wrapping up
 
 
