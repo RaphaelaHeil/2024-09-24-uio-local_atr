@@ -26,6 +26,8 @@ _Please note that the slides may still undergo small changes until a few days be
 6. Fine-Tuning and using a small custom model - [Slides](https://raphaelaheil.github.io/2024-09-24-uio-local_atr/slides/05.pdf)
 7. Final questions and wrapping up
 
+## Lesson Material
+The lesson material can be downloaded [here](https://drive.google.com/file/d/1VgRbI2ofRtnvZ1_FfBBtbr5yz1dmXL1o/view?usp=sharing)
 
 ## Docker Installation Instructions
 
